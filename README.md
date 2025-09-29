@@ -1,0 +1,2 @@
+R-code indicates code used for linear Blinder Oaxaca as well as testing other linear models such as Lasso and Ridge. I wanted to understand whether using highly dimensional models would provide benefit in the chance that penalisation models may be better, long-story short Lasso and Ridge were worse than XGBoost.
+Python codes indicate the model training process and cross validation, and further analysis of common support assumption, distributions and other related inference.
